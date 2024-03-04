@@ -1,0 +1,6 @@
+github.com/adrg/exrates v0.0.3 h1:bw9O+C1p6ivrkhGrgVAmlpp2OLcSOvXgX/5bFRsj0aI=
+github.com/adrg/exrates v0.0.3/go.mod h1:Jszr+VLAGBMbiKED6LDLBlf9KawmX4XDHQSo+NLPXAs=
+github.com/go-telegram/bot v1.1.4 h1:CdaDMQpz/P6bRPE2km0BH+f9y+ref/Y7HtY8exR0ouM=
+github.com/go-telegram/bot v1.1.4/go.mod h1:i2TRs7fXWIeaceF3z7KzsMt/he0TwkVC680mvdTFYeM=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
